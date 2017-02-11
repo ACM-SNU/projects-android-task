@@ -3,12 +3,12 @@
     {
       "title": "Item 1",
       "sub": "Item 1 subtitle",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/ACM-SNU/projects-android-task/master/img/stock1.png"
     },
     {
       "title": "Item 2",
       "sub": "Item 2 subtitle",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/ACM-SNU/projects-android-task/master/img/stock2.jpg"
     }
   ]
 }
