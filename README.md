@@ -28,5 +28,5 @@ Please fork this repository and edit the below section, with your project URL. S
 
 ## Submissions
 
-- [@username] - http://github.com/username/android-task
+- @username - http://github.com/username/android-task
 
