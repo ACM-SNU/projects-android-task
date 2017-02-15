@@ -22,3 +22,11 @@ The result should look close to the following wire-frame:
 
 ![](https://raw.githubusercontent.com/ACM-SNU/projects-android-task/master/img/draw_1.png)
 
+## Submissions Guidelines
+
+Please fork this repository and edit the below section, with your project URL. Send us a pull request as soon as you are done with the task!
+
+## Submissions
+
+- [@username] - http://github.com/username/android-task
+
