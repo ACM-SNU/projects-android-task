@@ -29,4 +29,4 @@ Please fork this repository and edit the below section, with your project URL. S
 ## Submissions
 
 - @priyanshrastogi - https://github.com/priyanshrastogi/SNU-ACM-Android-Task
-
+- @pl366 - https://github.com/pl366/ACMandroid
